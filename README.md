@@ -1,8 +1,8 @@
-# SharePoint training guide
+# SharePoint Traninig Guide
 by Bob Recio
 
 This guide is my approach at training someone to become a "front-end" SharePoint administrator; without access to the IIS server console or SharePoint Central Admin.
-
+---
 ## Background
 I've been working with SharePoint since 2003 at various organizations. I've been involved in upgrades and migrations all the way back to SharePoint 2002. And in one case, I was involved in reverting an instance to a previous version. Even with all that, only once in my SharePoint career has my job involved managing SharePoint using the server console or even central admin. I'm not saying that it's not needed for SharePoint - that work is absolutely required - however, it is out of scope for what I intend to teach.
 
@@ -15,3 +15,4 @@ In essence, my role is just a "super" user. Managing SharePoint sites and lists 
 Of course, as with everything else, there are tons of resources available on the Internet about SharePoint. I'm not trying to put another book on the interenet to add to the list. Instead, this writing is intended to be a *guide* to topics that a person might want to learn about in order to become more familiar with SharePoint concepts.
 
 I've found that a good starting point for information, when it comes to most topics, is Wikipedia.org. Here is the article on Wikipedia about SharePoint - https://en.wikipedia.org/wiki/SharePoint
+---
