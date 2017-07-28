@@ -1,7 +1,7 @@
 # Table of Contents
 
 1. Tour of a SharePoint page
-    1.TitleBar
+    1. TitleBar
     1. Browse Tab
     1. Page Tab
     1. Newsfeed
