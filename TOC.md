@@ -1,6 +1,6 @@
 # Tour of a SharePoint page
 
-## 1. TitleBar
+1. TitleBar
     1. Browse Tab
     1. Page Tab
     1. Newsfeed
@@ -16,7 +16,7 @@
     1. Content Area / Web Parts
     1. Additional Info
 
-## 1. Lists
+1. Lists
     1. Create a list
     1. Columns ("metadata")
     1. Add/Edit/Delete
@@ -26,7 +26,7 @@
     1. Special Types of Lists (Content Types)
     1. Best Practices
 
-## 1. Libraries
+1. Libraries
     1. Create a Library
     1. Create Folders
     1. Similarities to list
@@ -39,14 +39,14 @@
     1. Special Types of Libraries (Content Types)
     1. Best Practices
     
-## 1. Views
+1. Views
     1. List vs Library views 
     1. Create List View 
     1. Create Library View 
     1. Compare differences 
     1. Best Practices 
     
-## 1. Column types 
+1. Column types 
     1. Single Line of Text 
     1. Choice 
     1. Look-up 
@@ -55,7 +55,7 @@
     1. Number 
     1. Yes/No
     
-## 1. Page Content  
+1. Page Content  
     1. Web Parts 
     1. Editing Page 
     1. Adding / Editing Content 
@@ -65,17 +65,17 @@
     1. Wiki Page 
     1. Best Practices
 
-## 1. Office Integration  
+1. Office Integration  
     1. Editing Documents 
     1. Windows Explorer (File Management)  
     
-## 1. Organizing Library  
+1. Organizing Library  
     1. Folders 
     1. Columns 
     1. Searching 
     1. Best Practices 
     
-## 1. Permissions 
+1. Permissions 
     1. Site hierarchy ( Site Collection, Sites, Subsites, lists/libraries, items/documents) 
     1. SharePoint Groups 
     1. Inheritance
