@@ -14,3 +14,4 @@ In essence, my role is just a "super" user. Managing SharePoint sites and lists 
 
 Of course, as with everything else, there are tons of resources available on the Internet about SharePoint. I'm not trying to put another book on the interenet to add to the list. Instead, this writing is intended to be a *guide* to topics that a person might want to learn about in order to become more familiar with SharePoint concepts.
 
+I've found that a good starting point for information, when it comes to most topics, is Wikipedia.org. Here is the article on Wikipedia about SharePoint - https://en.wikipedia.org/wiki/SharePoint
