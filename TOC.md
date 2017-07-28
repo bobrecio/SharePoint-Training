@@ -38,9 +38,44 @@
     1. Views (intro)
     1. Special Types of Libraries (Content Types)
     1. Best Practices
-    
+    
 1. Views
+    1. List vs Library views 
+    1. Create List View 
+    1. Create Library View 
+    1. Compare differences 
+    1. Best Practices 
+    
+1. Column types 
+    1. Single Line of Text 
+    1. Choice 
+    1. Look-up 
+    1. Date/Time 
+    1. URL/Picture 
+    1. Number 
+    1. Yes/No
+    
+1. Page Content  
+    1. Web Parts 
+    1. Editing Page 
+    1. Adding / Editing Content 
+    1. Web Part settings 
+    1. Views 1. Chrome 
+    1. HTML 
+    1. Wiki Page 
+    1. Best Practices
 
-    1. List vs Library views
-    1. Create List View
-    1. Create Library View
+1. Office Integration  
+    1. Editing Documents 
+    1. Windows Explorer (File Management)  
+    
+1. Organizing Library  
+    1. Folders 
+    1. Columns 
+    1. Searching 
+    1. Best Practices 
+    
+1. Permissions 
+    1. Site hierarchy ( Site Collection, Sites, Subsites, lists/libraries, items/documents) 
+    1. SharePoint Groups 
+    1. Inheritance
