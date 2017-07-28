@@ -1,47 +1,25 @@
-#Tour
-of a SharePoint page
+#Tour of a SharePoint page
 
 1. TitleBar
+    1. Browse Tab
+    1. Page Tab
+    1. Newsfeed
+    1. OneDrive
+    1. Sites
+    1. User Name (menu)
+    1. Settings Icon
+    1. ? (help)
+    1. Share/Follow/Sync/Edit/[](Focuson Content)/[~]Developer Dashboard
+    1. Navigation
+    1. Search
+    1. PageTitle
+    1. Content Area / Web Parts
+    1. Additional Info
 
-  i. Browse Tab
-
-  ii. Page Tab
-
-  iii. Newsfeed
-
-  iv. OneDrive
-
-  v. Sites
-
-1.f. User Name (menu)
-
-1.h. Settings Icon
-
-1.i. ? (help)
-
-1. Share/Follow/Sync/Edit/[](Focuson Content)/[~]Developer Dashboard
-
-1. Navigation
-
-1. Search
-
-1. PageTitle
-
-1. Content
-Area / Web Parts
-
-f.             Additional
-Info
-
-II.            Lists
-
-a.            Create
-a list
-
-b.            Columns
-("metadata")
-
-c.             Add/Edit/Delete
+1. Lists
+    1. Create a list
+    1. Columns ("metadata")
+    1. Add/Edit/Delete
 
 d.            Settings
 
