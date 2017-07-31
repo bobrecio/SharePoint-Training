@@ -80,3 +80,12 @@
     1. Site hierarchy ( Site Collection, Sites, Subsites, lists/libraries, items/documents) 
     1. SharePoint Groups 
     1. Inheritance
+
+1. SharePoint Designer
+    1. Custom Workflows
+    1. Custom Pages (HTML)
+    1. Code Snippets (js, css, html)
+
+1. InfoPath (Forms)
+    1. List Forms
+    2. Standalone Forms
